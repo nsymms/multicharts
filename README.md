@@ -1,5 +1,5 @@
 # Multicharts Indicators and Studies
-Indicators I use with Multicharts .NET
+Stuff I've coded for Multicharts .NET
 
 Posted here so that others can benefit.
 
