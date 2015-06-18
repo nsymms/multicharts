@@ -1,4 +1,4 @@
-# multicharts
+# Multicharts Indicators and Studies
 Indicators I use with Multicharts .NET
 
 Posted here so that others can benefit.
